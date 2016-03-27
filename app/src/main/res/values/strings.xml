@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">HadesWege</string>
+	
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="end_to_send_salary">距离发工资</string>
+</resources>
